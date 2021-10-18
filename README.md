@@ -5,8 +5,8 @@ O conjunto de dados de Boston Housing modificado consiste em 489 pontos de dados
 
 Recursos 
 
-RM: número médio de quartos por habitação
-LSTAT: porcentagem da população considerada de status inferior
-PTRATIO: proporção aluno-professor por cidade
+RM: número médio de quartos por habitação <br/>
+LSTAT: porcentagem da população considerada de status inferior <br/>
+PTRATIO: proporção aluno-professor por cidade <br/>
 
 Variável alvo 4. MEDV: valor mediano de casas ocupadas pelo proprietário
